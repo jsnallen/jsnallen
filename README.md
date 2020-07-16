@@ -5,7 +5,7 @@
   <img align="center" alt="Jason's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=jasonckok.jasonckok)
+![](https://visitor-badge.laobi.icu/badge?page_id=jasonckok.jasonckok)
 
 ---
 **About Me**
